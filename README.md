@@ -1,2 +1,2 @@
-# Digital-timer
+# [Java] Digital-timer
 A timer application made in java
